@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "src/assets/img/rooms/1.png",
+    "title": "Inner Peace",
+    "description": "01 - Bed Room"
+  },
+  {
+    "id": 2,
+    "img": "src/assets/img/rooms/2.png",
+    "title": "Inner Peace",
+    "description": "02 - Sga Room"
+  },
+  {
+    "id": 3,
+    "img": "src/assets/img/rooms/3.png",
+    "title": "Inner Peace",
+    "description": "03 - Abc Defg"
+  }
+]

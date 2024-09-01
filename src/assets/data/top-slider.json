@@ -1,0 +1,20 @@
+[
+  {
+    "img": "src/assets/img/main-block/1.png",
+    "title": "Bohauss",
+    "description": "Luxury big sofa 2-seat",
+    "price": 17000000
+  },
+  {
+    "img": "src/assets/img/main-block/2.png",
+    "title": "Another title",
+    "description": "Sunt do in occaecat id",
+    "price": 12000000
+  },
+  {
+    "img": "src/assets/img/main-block/3.png",
+    "title": "Blank",
+    "description": "Excepteur aute cillum do aliqua",
+    "price": 13000000
+  }
+]

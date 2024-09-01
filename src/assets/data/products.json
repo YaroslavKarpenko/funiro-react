@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Syltherine",
+    "description": "Stylish cafe chair",
+    "isDiscount": true,
+    "discount": 30,
+    "price": 3500000,
+    "isNew": false
+  },
+  {
+    "id": 2,
+    "name": "Leviosa",
+    "description": "Stylish cafe chair",
+    "isDiscount": false,
+    "discount": 30,
+    "price": 2500000,
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "name": "Lolito",
+    "description": "Luxury big sofa",
+    "isDiscount": true,
+    "discount": 50,
+    "price": 14000000,
+    "isNew": false
+  },
+  {
+    "id": 4,
+    "name": "Respira",
+    "description": "Minimalist fan",
+    "isDiscount": false,
+    "discount": 30,
+    "price": 500000,
+    "isNew": true
+  },
+  {
+    "id": 5,
+    "name": "Grifo",
+    "description": "Night lamp",
+    "isDiscount": false,
+    "discount": 30,
+    "price": 1500000,
+    "isNew": false
+  },
+  {
+    "id": 6,
+    "name": "Muggo",
+    "description": "Small mug",
+    "isDiscount": false,
+    "discount": 30,
+    "price": 150000,
+    "isNew": true
+  },
+  {
+    "id": 7,
+    "name": "Pingky",
+    "description": "Cute bed set",
+    "isDiscount": true,
+    "discount": 50,
+    "price": 14000000,
+    "isNew": false
+  },
+  {
+    "id": 8,
+    "name": "Potty",
+    "description": "Minimalist flower pot",
+    "isDiscount": false,
+    "discount": 30,
+    "price": 500000,
+    "isNew": true
+  }
+]
